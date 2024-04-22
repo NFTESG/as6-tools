@@ -19,7 +19,7 @@ To run the CSMGVT tool:
 
     ecoa-csmgvt -p <path/to/the/ecoa/project/file> -k <path/to/the/checker>
 
-Given paths can be absolute or relatif (from the current directory where the user run the tool).
+Given paths can be absolute or relative (to the current directory from where the user runs the tool).
 
 Example
 *******
