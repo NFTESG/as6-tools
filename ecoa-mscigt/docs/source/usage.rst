@@ -621,7 +621,7 @@ Template
 ********
 
 The template option allows the personalisation of the generated file header.
-Four template types can be changed : hearder_template.c (for C headers), header_template.cpp (for C++ headers),
+Four template types can be changed : header_template.c (for C headers), header_template.cpp (for C++ headers),
 code_template.c (for C source files) and code_template.cpp (for C++ source files).
 
 .. note::
